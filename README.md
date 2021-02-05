@@ -18,7 +18,20 @@
 - RTK-GPSで位置情報を計測した。
   - ラズパイでRTK-GPSデータを取得するpythonプログラムを作成したが、緯度経度データに基づく自律走行はできなかった。
 
-## 資料
+## 外部発表実績
+
+- [2020/09/12（土） 13:00〜 つくばチャレンジ2020第1回LT大会](https://tsukubachallenge.connpass.com/event/187976/)
+   - [講演資料](https://speakerdeck.com/tmdoi/fu-da-gao-zhuan-timuzi-ji-shao-jie-tukubatiyarenzi2020di-1hui-ltda-hui)
+- [2020/11/28(土) 12:45〜 つくばチャレンジ2020第2回LT大会](https://tsukubachallenge.connpass.com/event/195912/)
+   - [講演資料](https://speakerdeck.com/tmdoi/fu-da-gao-zhuan-timufalsexian-zhuang-tukubatiyarenzi2020di-2hui-ltda-hui)
+- [計測自動制御学会 SI2020講演会 ]()
+  - 講演資料 マックHDクラッシュのため消失（涙）
+  - [講演概要](https://github.com/tmdoi/TC2020_2058/blob/main/papers/SI2020.pdf)
+
+- [第14回つくばチャレンジ2020シンポジウム](https://tsukubachallenge.connpass.com/event/200361/)
+  - [講演概要](https://github.com/tmdoi/TC2020_2058/blob/main/papers/TS2020.pdf)
+
+## ロボットの構成に関する情報
 
 - ロボット駆動系のハードウェア
   - [Sabertooth dual 25A motor driver](https://www.dimensionengineering.com/products/sabertooth2x25)
