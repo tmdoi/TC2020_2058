@@ -78,3 +78,6 @@
 # 謝辞
 - 機器提供を頂いた北陽電機株式会社様、ありがとうございます。
 - ichimillに関して技術提供をいただきましたSoftBank ALES様、ありがとうございます。
+
+# TC2020当日得た情報
+- [ROS Scratch](http://wiki.ros.org/scratch)
